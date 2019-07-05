@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+            <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+            <style type="text/css">
+            	body {
+    background-color: rgb(0,0,0);
+  }
+            .btn {
+          border: 2px solid black;
+          border-radius: 5px;
+          background-color: white;
+          color: black;
+          padding: 20px 48px;
+          font-size: 16px;
+          cursor: pointer;
+          
+            }
+            /* Orange */
+            .warning {
+              border-color: rgb(254,206,62);
+              color: rgb(254,206,62) ;
+              
+            }
+
+            .warning:hover {
+              background: rgb(254,206,62);
+              color: white;
+            }
+            #divbutton {
+              position: absolute;
+              width: 300px;
+              height: 200px;
+             
+              top: 70%;
+              left: 60%;
+              margin: -100px 0 0 -150px;
+             
+            }
+
+            </style>
+            <img src="/static/PyFolio2.png"  align="right" height="300" width="300">
+               </head>
+               
+        <body>
+ 			
+            <div id="divbutton">
+            <button class="btn warning">Start</button>
+        </div>
+        <a class="typeform-share button" href="https://angelamariadon.typeform.com/to/rNBx3n" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">Start Building </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+            <p2></p2>
+        </body>
+</html>
+
+254
+206
+62
