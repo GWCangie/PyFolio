@@ -1,0 +1,43 @@
+--List of information requests:--
+
+- Name
+- Tagline (Ex.: Software Engineer)
+- About Me (personal statement)
+- Contact information
+    - Phone number
+    - Address (optional)
+    - Personal website
+
+- Education (Ex.: Bachelor of Arts in Computer Science)
+
+- Experience
+    - Exp 1
+        - Position (Ex.: Technical Designer)
+        - Department (Ex.: Software Solutions)
+        - Company (Ex.: Google)
+        - Date (Ex.: May 2017 - Now)
+
+    - Exp 2
+        - Position (Ex.: Technical Designer)
+        - Department (Ex.: Software Solutions)
+        - Company (Ex.: Google)
+        - Date (Ex.: May 2017 - Now)
+
+- Skills
+    - Skill 1 (Ex.: Bookkeeping)
+        - Knowledge of Skill (1-10)
+
+    - Skill 2 (Ex.: Android Development)
+        - Knowledge of Skill (1-10)
+
+    - Skill 3 (Ex.: Spanish Translation)
+        - Knowledge of Skill (1-10)
+
+    - Skill 4 (Ex.: C++)
+         - Knowledge of Skill (1-10)
+
+
+- Interests
+    - Interest 1 (Ex.: Music)
+    - Interest 2 (Ex.: Dancing)
+    - Interest 3 (Ex.: Painting)
